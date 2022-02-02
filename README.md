@@ -1,4 +1,4 @@
-<h1 align="center">kube-springboot-sampleapp 👋</h1>
+<h1 align="center">gke-springboot-mongodb 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,18 +6,11 @@
   </a>
 </p>
 
-> The Simple Spring Boot application has been implemented using Spring Boot, MongoDB, Docker, Docker Compose, and Kubernetes.
+> The Simple Spring Boot application has been implemented using GKE Cluster, Spring Boot, MongoDB, Docker, Docker Compose, and Kubernetes.
 
 ## Usage
-### Run Pods
 ```sh
-minikube start
-kubectl apply -f kube
-minikube service sampleapp --url 
-```
-### Run Dashboard
-```sh
-minikube dashboard
+To be updated...
 ```
 
 ## Author
